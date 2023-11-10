@@ -10,4 +10,4 @@ npm start
 ```
 
 
-[Edit here](http://dy-pwa.dev/~/gh/pmg41/coming-soon)
+[Edit here](https://diy-pwa.dev/~/gh/pmg41/coming-soon)
